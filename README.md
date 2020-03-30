@@ -1,14 +1,21 @@
-# Curved Design
+This project is a nutration app developed using Flutter and static data.
 
-Code for a simple ui screen created with flutter.
+The application consists of 4 screens: 
+* Menu screen.
+<img src="assets/nut1.jpeg" width=300 height=500>
 
-Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
+* Cusine details screen.
+<img src="assets/nut5.jpeg" width=300 height=500>
+<img src="assets/nut3.jpeg" width=300 height=500>
 
-How do I code this - https://youtu.be/K1uH_SN4X0w
+* Cart screen.
+<img src="assets/nut2.jpeg" width=300 height=500>
+<img src="assets/nut4.jpeg" width=300 height=500>
+<img src="assets/nut7.jpeg" width=300 height=500>
 
-## Screenshots
+* Orders screen.
+<img src="assets/nut8.jpeg" width=300 height=500>
+<img src="assets/nut6.jpeg" width=300 height=500>
 
-![Screenshot_20190801-030839](https://user-images.githubusercontent.com/8137504/62318844-51c08900-b4ba-11e9-9aca-85b9641234ee.png)
-![Screenshot_20190801-030856](https://user-images.githubusercontent.com/8137504/62318845-51c08900-b4ba-11e9-9390-aa9c35e0ce70.png)
-![Screenshot_20190801-030910](https://user-images.githubusercontent.com/8137504/62318847-52591f80-b4ba-11e9-984d-0f6f400a92f7.png)
-![Screenshot_20190801-030918](https://user-images.githubusercontent.com/8137504/62318848-52591f80-b4ba-11e9-8124-cddda049b70a.png)
+
+
